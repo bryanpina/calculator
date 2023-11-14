@@ -25,5 +25,11 @@ function divide(){
 //Function that takes an operator and 2 numbers and then calls one of the above functions on the numbers (add, subtract, multiply, divide)
 
 function operate(){
+
+}
+
+//Function that populates display when numbers are clicked by user. Display value should be stored in a variable.
+
+function display(){
     
 }
